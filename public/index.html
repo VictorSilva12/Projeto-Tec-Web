@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title>Projeto Tec Web</title>
+        <link rel="shortcut icon" href="imgs/icone.png" />
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css/owl.theme.default.css">
+    </head>
+    <body>
+       
+        <!--Barra de navegação-->
+        <nav class="navbar navbar-expand navbar-fixed-top lg navbar-light bg-light sticky nav-shadow">
+
+            <div class="container">
+                <div class="col-md-3">
+                        <a href="index.html"><img src="imgs/logo.png" style="width: 120px; height: 60px;"></a>
+                </div>
+                <div class="col-md-6">
+
+                </div>
+                <div class="col-md-3">
+                    <div class="container">
+                        <div class="collapse navbar-collapse" id="bar_navegacao">
+                            <div><a href="index.html" class="dropdown-item"><span style="font-size: 110%;">Inicio</span></a></div>
+                            <div><a href="info.html" class="dropdown-item"><span style="font-size: 110%;">Informações</span></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!--Fim barra de navegação-->
+        <!--inicio parte principal-->
+        <div class="content" style="background-color: rgb(141, 250, 141);">
+            <div class="container principal">
+                <!--topo pagina-->
+                <div class="row content" style="overflow:hidden;">
+                    <img src="imgs/topo.gif" style="max-width: 100%;">
+                </div>
+                <div class="row content">
+                    <!--conteudo da pagina-->
+                    <div class="col-12">
+                        <div class="container">
+                            <div class="row">
+                                <div class="cabecalho_colun arredondar">
+                                    <h5>Novidades</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="container margin-content">
+                            <div class="row">
+                                <div class="owl-carousel owl-theme">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--inicio da exibição de todos os albuns-->
+                <div class="row content">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="cabecalho_colun arredondar">
+                                <h5>Albuns</h5>
+                            </div>
+                        </div>
+                        <div class="container margin-content albumcentralizar" id="albumsLista">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="js/jquery.js"></script>
+        <script src="js/owl.carousel.js"></script>
+        <script src="js/popper.js"></script>
+        <script src="js/bootstrap.js"></script>    
+        <script src="js/index-min.js"></script>
+    </body>
+</html>

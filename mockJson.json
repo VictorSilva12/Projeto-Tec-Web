@@ -1,0 +1,266 @@
+[  
+   {  
+      "_id":{  
+         "$oid":"5bf49d6fe44b4421c0ddbadd"
+      },
+      "nome":"Rakim Mayers",
+      "apelido":"Asap Rocky",
+      "foto":"artistas/asap.png",
+      "albums":[  
+         {  
+            "album":"Lov.  Live. Asap",
+            "ano":"2018",
+            "mes":"1",
+            "caminho":"mixtapes/ASAP/LiveLoveAap/",
+            "capa":"front.jpg",
+            "artista":"Asap Rocky",
+            "musicas":[  
+               {  
+                  "musica":"ASAP Rocky-Palace Prod By Clams Casino",
+                  "arquivo":"01 - ASAP Rocky-Palace Prod By Clams Casino.mp3"
+               },
+               {  
+                  "musica":"ASAP Rocky-Peso Prod By ASAP Ty Beats",
+                  "arquivo":"02 - ASAP Rocky-Peso Prod By ASAP Ty Beats.mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c1f9f180b825507808e6"
+      },
+      "nome":"James Baker",
+      "apelido":"BlocBoy JB",
+      "foto":"artistas/blocboyjb.png",
+      "albums":[  
+         {  
+            "album":"Dont Think That",
+            "ano":"2018",
+            "mes":"12",
+            "caminho":"mixtapes/BLOCBOY/Dont_Think_That/",
+            "capa":"front.jpg",
+            "artista":"BlocBoy JB",
+            "musicas":[  
+               {  
+                  "musica":"Bloc",
+                  "arquivo":"01 - Bloc.mp3"
+               },
+               {  
+                  "musica":"Club Rock",
+                  "arquivo":"02 - Club Rock.mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c4b7f180b825507808e9"
+      },
+      "nome":"David Brewster, Jr.",
+      "apelido":"Dave East",
+      "foto":"artistas/daveeast.png",
+      "albums":[  
+         {  
+            "album":"Karma 2",
+            "ano":"2018",
+            "mes":"6",
+            "caminho":"mixtapes/DAVE_EAST/Karma_2/",
+            "capa":"front.jpg",
+            "artista":"Dave East",
+            "musicas":[  
+               {  
+                  "musica":"Karma (Interlude)",
+                  "arquivo":"1. Karma (Interlude).mp3"
+               },
+               {  
+                  "musica":"NOBU (Prod by Ablaz Jackson)",
+                  "arquivo":"2. NOBU (Prod by Ablaz Jackson).mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c5b3f180b825507808ea"
+      },
+      "nome":"Aubrey Drake Graham",
+      "apelido":"Drake",
+      "foto":"artistas/drake.png",
+      "albums":[  
+         {  
+            "album":"More 9th",
+            "ano":"2018",
+            "mes":"2",
+            "caminho":"mixtapes/DRAKE/More_9th/",
+            "capa":"front.jpg",
+            "artista":"Drake",
+            "musicas":[  
+               {  
+                  "musica":"0-100 (Critical Hype Mix)",
+                  "arquivo":"01 - 0-100 (Critical Hype Mix).mp3"
+               },
+               {  
+                  "musica":"The Catch Up (Critical Hype Mix)",
+                  "arquivo":"02 - The Catch Up (Critical Hype Mix).mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c64cf180b825507808eb"
+      },
+      "nome":"Kentrell DeSean Gaulden",
+      "apelido":"NBA Youngboy",
+      "foto":"artistas/nba.png",
+      "albums":[  
+         {  
+            "album":"4 Freedom",
+            "ano":"2018",
+            "mes":"2",
+            "caminho":"mixtapes/NBA_YOUNGBOY/4_Freedom/",
+            "capa":"front.jpg",
+            "artista":"NBA Youngboy",
+            "musicas":[  
+               {  
+                  "musica":"Change",
+                  "arquivo":"01 - Change.mp3"
+               },
+               {  
+                  "musica":"Drawing Symbols",
+                  "arquivo":"02 - Drawing Symbols.mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c69ef180b825507808ec"
+      },
+      "nome":"Jarad Higgins",
+      "apelido":"Juice Wrld",
+      "foto":"artistas/juicewrld.png",
+      "albums":[  
+         {  
+            "album":"Kill's Wrld",
+            "ano":"2018",
+            "mes":"7",
+            "caminho":"mixtapes/JUICE_WRLD/Kills_Wrld/",
+            "capa":"front.jpg",
+            "artista":"Juice WRLD",
+            "musicas":[  
+               {  
+                  "musica":"Whimpers In The Darkness (Prod.0)",
+                  "arquivo":"01 - Whimpers In The Darkness (Prod0).mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c707f180b825507808ed"
+      },
+      "nome":"Kristopher Campbell",
+      "apelido":"K Camp",
+      "foto":"artistas/kcamp.png",
+      "albums":[  
+         {  
+            "album":"RARE Sound",
+            "ano":"2018",
+            "mes":"5",
+            "caminho":"mixtapes/KCAMP/RARE_Sound/",
+            "capa":"front.jpg",
+            "artista":"K Camp",
+            "musicas":[  
+               {  
+                  "musica":"RARE (Intro)",
+                  "arquivo":"01 - RARE (Intro).mp3"
+               },
+               {  
+                  "musica":"K CAMP & GENIUS - Cant Go Home",
+                  "arquivo":"02 - K CAMP & GENIUS - Cant Go Home.mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c7f8f180b825507808ee"
+      },
+      "nome":"Dalvin Amir Sewell",
+      "apelido":"T.E.C",
+      "foto":"artistas/tec.png",
+      "albums":[  
+         {  
+            "album":"Web Life 2",
+            "ano":"2018",
+            "mes":"10",
+            "caminho":"mixtapes/TEC/Web_Life_2/",
+            "capa":"front.jpg",
+            "artista":"TEC",
+            "musicas":[  
+               {  
+                  "musica":"Die Rich",
+                  "arquivo":"01 - Die Rich.mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c835f180b825507808ef"
+      },
+      "nome":"Faheem Rasheed Najm",
+      "apelido":"T Pain",
+      "foto":"artistas/tpain.png",
+      "albums":[  
+         {  
+            "album":"Everything Must Go Vol.2",
+            "ano":"2018",
+            "mes":"3",
+            "caminho":"mixtapes/TPAIN/Everything_Must_Go_Vol.2/",
+            "capa":"front.jpg",
+            "artista":"T Pain",
+            "musicas":[  
+               {  
+                  "musica":"Who Want It ft. Severe",
+                  "arquivo":"01 - Who Want It ft Severe.mp3"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "_id":{  
+         "$oid":"5bf4c872f180b825507808f0"
+      },
+      "nome ":"Jeffery Lamar Williams",
+      "apelido":"Young Thung",
+      "foto":"artistas/youngthug.png",
+      "albums":[  
+         {  
+            "album":"Slime Language",
+            "ano":"2018",
+            "mes":"8",
+            "caminho":"mixtapes/YOUNG_THUG/Slime_Language/",
+            "capa":"front.jpg",
+            "artista":"Young Thug",
+            "musicas":[  
+               {  
+                  "musica":"Tsunami",
+                  "arquivo":"01 - Tsunami.mp3"
+               }
+            ]
+         }
+      ]
+   }
+]

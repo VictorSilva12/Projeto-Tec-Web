@@ -1,0 +1,83 @@
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title>Projeto Tec Web</title>
+        <link rel="shortcut icon" href="imgs/icone.png" />
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/Estilo.css">
+    </head>
+    <body>
+       
+        <!--Barra de navegação-->
+        <nav class="navbar navbar-expand navbar-fixed-top lg navbar-light bg-light sticky nav-shadow">
+            <div class="container">
+                <div class="col-md-3">
+                        <a href="index.html"><img src="imgs/logo.png" style="width: 120px; height: 60px;"></a>
+                </div>
+                <div class="col-md-6">
+        
+                </div>
+                <div class="col-md-3">
+                    <div class="container">
+                        <div class="collapse navbar-collapse" id="bar_navegacao">
+                                <div><a href="index.html" class="dropdown-item"><span style="font-size: 110%;">Inicio</span></a></div>
+                                <div><a href="info.html" class="dropdown-item"><span style="font-size: 110%;">Informações</span></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!--Fim barra de navegação-->
+        <!--inicio parte principal-->
+        <div class="content" style="background-color: rgb(141, 250, 141);">
+            <div class="container principal">
+                <!--topo pagina-->
+                <div class="row content" style="overflow:hidden;">
+                    <img src="imgs/topo.gif" style="max-width: 100%;">
+                </div>
+                <div class="row content">
+                
+                    <!--conteudo da pagina-->
+                    <div class="col-12">
+                        <div class="container">
+                            <div class="row">
+                                <div class="cabecalho_colun arredondar">
+                                    <h5>Player de Musica</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="player margin-content">
+                            <div>
+                               <div class="container row content" id="localcapa">
+                                
+                               </div>
+                               <div>
+                                    <header>
+                                        <h4 id="nome_musica"></h4>
+                                    </header>
+                                    <audio id="audio" controls class="container" >
+                        
+                                    Seu navegador não possui suporte ao elemento audio
+                                    </audio>
+                                </div>
+                                <div>
+                                    <h3>Músicas</h3>
+                                    <ul id="listamusicas">
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--inicio da exibição de todos os albuns-->
+            </div>
+        </div>
+        <script src="js/jquery.js"></script>
+        <script src="js/popper.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/Controle.js"></script>
+        <script src="js/play.js">         
+        </script>
+    </body>
+</html>
